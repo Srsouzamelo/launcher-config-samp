@@ -1,7 +1,7 @@
 [
   {
     "name": "REDE ELITE RP",
-    "ip": "45.157.16.228:7777",
+    "ip": "45.157.16.228",
     "max": 1000,
     "players": 0,
     "gamemode": "Roleplay",
